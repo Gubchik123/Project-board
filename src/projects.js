@@ -6,8 +6,8 @@ export default [
         id: "LapZone",
         name: "LapZone",
         categories: ["Site", "Using templates"],
-        deploy_status: "Deployed",
-        url: "https://lapzone.store/",
+        deploy_status: "Paused",
+        url: null,
         header_image: "https://raw.githubusercontent.com/Gubchik123/LapZone/master/static/images/site_header.webp",
         repo: {
             platform: "GitHub",
@@ -20,8 +20,8 @@ export default [
         id: "ITish",
         name: "ITish",
         categories: ["Site", "Using templates"],
-        deploy_status: "Deployed",
-        url: "https://itish.site/",
+        deploy_status: "Paused",
+        url: null,
         header_image: "https://raw.githubusercontent.com/Gubchik123/ITish/master/md_images/readme_header.png",
         repo: {
             platform: "GitHub",
@@ -49,7 +49,7 @@ export default [
         id: "JobsDOUBot",
         name: "JobsDOUBot",
         categories: ["Telegram bot"],
-        deploy_status: "Deployed",
+        deploy_status: "Paused",
         url: "https://t.me/DOUGubchikBot",
         header_image: "https://raw.githubusercontent.com/Gubchik123/DOUGubchikBot/master/header.png",
         repo: {
