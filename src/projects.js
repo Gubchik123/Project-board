@@ -49,7 +49,7 @@ export default [
         id: "JobsDOUBot",
         name: "JobsDOUBot",
         categories: ["Telegram bot"],
-        deploy_status: "Paused",
+        deploy_status: "Deployed",
         url: "https://t.me/DOUGubchikBot",
         header_image: "https://raw.githubusercontent.com/Gubchik123/DOUGubchikBot/master/header.png",
         repo: {
@@ -148,12 +148,12 @@ export default [
         id: "ResumesGubchikBot",
         name: "Robomate test task",
         categories: ["Test task", "Telegram bot"],
-        deploy_status: "Deployed",
+        deploy_status: "Paused",
         url: "https://t.me/ResumesGubchikBot",
-        header_image: "https://raw.githubusercontent.com/Gubchik123/ResumesGubchikBot/master/header.png",
+        header_image: "https://raw.githubusercontent.com/Gubchik123/robomate-tesk-task/master/header.png",
         repo: {
             platform: "GitHub",
-            url: "https://github.com/Gubchik123/ResumesGubchikBot"
+            url: "https://github.com/Gubchik123/robomate-tesk-task"
         },
         description: "The test task for the Robomate company. The telegram bot for finding resumes from popular work sites.",
         skills: ["Python", "asyncio", "aiogram", "Parsing", "Git", "GitHub", "VSCode", "Railway"]
